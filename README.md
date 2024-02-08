@@ -12,7 +12,7 @@ A collection of utilties for Salesforce development
 
 ---
 
-## Key Press Macro 
+## SF Navigation Macros
 
 > Macro for triggering Next, Prev, and Save button clicks on webpages by pressing specific key combinations.
 >
@@ -28,7 +28,7 @@ A collection of utilties for Salesforce development
 >    - Click on the extension icon and choose "Create a New Script".
 >
 > 3. Copy and paste the script:
->    - Copy the script from [Click%20Next%20or%20Prev%20or%20Save%20on%20Key%20Press-0.1.user.js](#sf-nav-macros).
+>    - Copy the script from [SF Navigation Macros.user.js](#sf-nav-macros).
 >    - Paste it into the editor.
 >
 > 4. Save the script
