@@ -11,7 +11,11 @@ A collection of utilties for Salesforce development
 - **[TBD](#TBD) :** TBD
 
 ---
+## Additional Resources
 
+- **[BetterFormula](https://github.com/mujud/betterformula) :** Provides syntax highlighting, field and metadata autocomplete, and live snippets with documentation
+
+---
 ## SF Navigation Macros
 
 > Macro for triggering Next, Prev, and Save button clicks on webpages by pressing specific key combinations.
